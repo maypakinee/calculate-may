@@ -24,3 +24,5 @@ const calculator = require('calculator-may')
 ```js
 calculate.plus(2,3);
 ```
+
+![epod](https://user-images.githubusercontent.com/12986182/61846535-9f912c00-aed1-11e9-88d8-28d8f4bf36f9.jpg)
