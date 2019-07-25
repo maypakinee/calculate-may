@@ -16,3 +16,9 @@
 ```js
 const calculator = require('calculator-may')
 ```
+### วิธีการบวก
+สำหรับการบวก    function `plus()`
+
+```js
+calculate.plus(2,3);
+```
